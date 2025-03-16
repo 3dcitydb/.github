@@ -5,7 +5,7 @@ on top of a spatial database system. Its database schema implements the [OGC Cit
 standard, and it includes a suite of software tools for importing, exporting, visualizing, and integrating your 3D city models into
 automated workflows and processes.
 
-- :rocket: The latest release of the 3D City Database is version 5.
+- :rocket: The latest release of the 3D City Database is [version 5](https://github.com/3dcitydb/3dcitydb).
 - :bulb: Follow our [download instructions](https://3dcitydb.github.io/3dcitydb-mkdocs/download/) to get the software.
 - :book: Get started with our [first-step guides](https://3dcitydb.github.io/3dcitydb-mkdocs/first-steps/) and learn more about the 3D City Database in our [online manual](https://3dcitydb.github.io/3dcitydb-mkdocs/).
 - :gear: Check out our [Docker support](https://3dcitydb.github.io/3dcitydb-mkdocs/first-steps/docker/#docker-images-overview) to easily get the 3D City Database and its tools up and running.
