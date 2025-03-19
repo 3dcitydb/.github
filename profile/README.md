@@ -10,4 +10,4 @@ automated workflows and processes.
 - :book: Get started with our [first-step guides](https://3dcitydb.github.io/3dcitydb-mkdocs/first-steps/) and learn more about the 3D City Database in our [online manual](https://3dcitydb.github.io/3dcitydb-mkdocs/).
 - :gear: Check out our [Docker support](https://3dcitydb.github.io/3dcitydb-mkdocs/first-steps/docker/#docker-images-overview) to easily get the 3D City Database and its tools up and running.
 - :rainbow: Get in touch with us and share your feedback on [GitHub discussions](https://github.com/orgs/3dcitydb/discussions).
-- :exclamation: Version 4 of the 3D City Database is [still available](https://github.com/3dcitydb/3dcitydb-suite) and is now in maintenance mode.
+- :exclamation: Version 4 of the 3D City Database is [still available](https://github.com/3dcitydb/3dcitydb-suite/releases) and is now in maintenance mode.
